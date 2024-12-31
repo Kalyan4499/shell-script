@@ -2,6 +2,4 @@
 
 #this is a comment
 
-echo "Hello-wrold1"
-
-echo "this is the one"
+echo "this is the 3rd one"
