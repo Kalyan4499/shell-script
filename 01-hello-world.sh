@@ -4,4 +4,4 @@
 
 echo "Hello-wrold1"
 
-echo "this is the second one"
+echo "this is the one"
